@@ -37,3 +37,7 @@ Numpy & Opencv, Pandas, Python, matplotlib, sklearn, HTML, css, java script, pyt
 
  - [Codebasics Youtube Channel](https://www.youtube.com/@codebasics)
  
+ - UI Layout
+ <img width="1438" alt="UI lAYOUT" src="https://user-images.githubusercontent.com/98344845/210606532-32eca992-caf6-458e-83db-6a2814b63d6e.png">
+
+ 
