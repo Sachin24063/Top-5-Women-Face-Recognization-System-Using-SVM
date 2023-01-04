@@ -16,17 +16,17 @@ In this End to End real life data science project, we classify top 5 woman crick
 
 Here is the Folder Structure of a Project.
 
-- UI 
+- UI - 
 This Folder Contains all the UI codes like HTML,CSS and java script.
 
 
-- Model
+- Model - 
 This Contains Python code for data cleaning process and model creation.
 
-- Server
+- Server - 
 This Folder Contains all the python files which can used to build a server.
 
-- Dataset Link
+- Dataset Link -
 https://drive.google.com/drive/folders/1-hgBvj6D9cfGkB55QuotObZJUos3x-J8?usp=share_link
 
 
